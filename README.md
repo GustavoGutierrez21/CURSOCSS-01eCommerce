@@ -32,4 +32,4 @@ Este es el primer proyecto del curso de CSS, donde se desarrolló una tienda de 
 <img src="capturas/6.png" alt="Logo del proyecto" width="500"/>
 
 ## 📄 Curso
-Este código fue realizado con base al curso de Juan Pablo De la torre Valdez en [Udemy](https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/?couponCode=LETSLEARNNOW) llegando a "Sección 5.
+Este código fue realizado con base al curso de Juan Pablo De la torre Valdez en [Udemy](https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/?couponCode=LETSLEARNNOW) llegando a Sección 7.
